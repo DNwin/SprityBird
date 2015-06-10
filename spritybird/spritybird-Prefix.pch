@@ -1,0 +1,16 @@
+
+//
+//  PrefixHeader.pch
+//  spritybird
+//
+//  Created by Dennis Nguyen on 6/10/15.
+//  Copyright (c) 2015 Alexis Creuzot. All rights reserved.
+//
+
+#ifndef spritybird_PrefixHeader_pch
+#define spritybird_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
